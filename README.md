@@ -5,7 +5,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/fatihgursoy25tr" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fatihgursoy25tr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/fatihgursoy25tr" target="blank"><img align="center" <a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fatih Gürsoy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
