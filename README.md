@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20THERE!&reversal=false&textBg=false&animation=fadeIn&desc=I'm%20Fatih%20Gürsoy&section=header&fontAlign=50&fontAlignY=42">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fatihgursoy25tr) 
 
