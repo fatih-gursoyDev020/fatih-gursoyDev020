@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben fatih-gursoyDev020</h1>
-<h3 align="center">Hindistan'dan tutkulu bir frontend geliştiricisiyim</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatih-gursoydev020&label=Profile%20views&color=0e75b6&style=flat" alt="fatih-gursoydev020" /> </p>
 
