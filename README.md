@@ -19,7 +19,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=fatih-gursoyDev020&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fatih-gursoyDev020&icon=6&color=0)](https://visitcount.itsvg.in)
+![GitHub watchers](https://img.shields.io/github/watchers/fatih-gursoyDev020/fatih-gursoyDev020?style=for-the-badge&logo=github&logoSize=auto&label=Watchers&labelColor=rgb(65%2C70%2C151))
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
