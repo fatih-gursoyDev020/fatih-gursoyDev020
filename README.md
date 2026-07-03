@@ -1,3 +1,4 @@
+## My Contribution Graph
 
 <!-- [game-name] -->
 <picture>
