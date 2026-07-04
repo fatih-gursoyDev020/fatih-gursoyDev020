@@ -20,7 +20,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=fatih-gursoyDev020&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![GitHub watchers](https://img.shields.io/github/watchers/fatih-gursoyDev020/fatih-gursoyDev020?style=for-the-badge&logo=github&logoSize=auto&label=Watchers&labelColor=rgb(65%2C70%2C151))
+
+### [<img alt="Ziyaretçiler" src="https://komarev.com/ghpvc/?username=fatih-gursoyDev020&style=for-the-badge&color=414697&label=WATCHERS">](https://github.com/fatih-gursoyDev020)
 
 
 
